@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatAppLiveData</string>
+    <string name="hint_type_message">Type your message...</string>
+</resources>
